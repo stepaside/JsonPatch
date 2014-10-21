@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>JsonPatch</id>
+    <version>1.0.0</version>
+    <title>JsonPatch</title>
+	<authors>JsonPatch</authors>
+	<description>JsonPatch</description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+    <file src="JsonPatch.dll" target="lib\net45" />
+  </files>
+</package>
